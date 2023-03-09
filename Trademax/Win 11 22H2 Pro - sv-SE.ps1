@@ -1,4 +1,4 @@
-Write-Host  -ForegroundColor Cyan 'Windows 11 22H2 Ent Autopilot sv-SE'
+Write-Host  -ForegroundColor Cyan 'Windows 11 22H2 Pro Autopilot sv-SE'
 #================================================
 #   [PreOS] Update Module
 #================================================
