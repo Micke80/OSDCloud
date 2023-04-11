@@ -19,7 +19,7 @@ Import-Module OSD -Force
 $Params = @{
     OSVersion = "Windows 10"
     OSBuild = "22H2"
-    OSEdition = "Ent"
+    OSEdition = "Enterprise"
     OSLanguage = "da-DK"
     OSLicense = "Retail"
     ZTI = $true
