@@ -21,7 +21,7 @@ $Params = @{
     OSBuild = "22H2"
     OSEdition = "Enterprise"
     OSLanguage = "da-DK"
-    OSLicense = "Retail"
+    OSLicense = "Volume"
     ZTI = $true
 }
 Start-OSDCloud @Params
